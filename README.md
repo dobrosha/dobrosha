@@ -7,7 +7,7 @@
 ## 👩🏼‍💻 About me:
 + 💻 Currently studying at School 21/ Ecole 42 (Moscow)
 + 🧑🏻‍🎓 Master's degree in Moscow Aviation Institute (System analyst)
-
+---
 :mailbox:How to reach me:
 + @rakitusya in telegram
 <!--[![Telegram Badge](https://img.shields.io/badge/-rakitusya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/username)
