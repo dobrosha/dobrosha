@@ -8,8 +8,10 @@
 + 💻 Currently studying at School 21/ Ecole 42 (Moscow)
 + 🧑🏻‍🎓 Master's degree in Moscow Aviation Institute (System analyst)
 
-:mailbox:How to reach me: \
-[![Telegram Badge](https://img.shields.io/badge/-rakitusya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/username)
+:mailbox:How to reach me:
++ @rakitusya in telegram
+<!--[![Telegram Badge](https://img.shields.io/badge/-rakitusya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/username)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobrosha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
