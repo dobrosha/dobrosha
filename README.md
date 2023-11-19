@@ -4,7 +4,7 @@
 
 ### Hi, I'm Marusya
 
-## 👩🏼‍💻 About me:
+## 👩🏼‍💻 About me: 
 + 💻 Currently studying at School 21/ Ecole 42 (Moscow)
 + 🧑🏻‍🎓 Master's degree in Moscow Aviation Institute (System analyst)
 ---
